@@ -23,9 +23,3 @@ form.addEventListener('submit', function (e) {
     }
 }); 
 
-// const mode = document.querySelector('.darkmode');
-// const body = document.querySelector("body");
-// mode.addEventListener('click',function(e){
-//     body.style.backgroundColor = 'black';
-//     body.style.color= 'white';
-// })
